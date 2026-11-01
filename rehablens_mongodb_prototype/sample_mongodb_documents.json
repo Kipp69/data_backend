@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": "2026-10-20T10:00:00.000Z",
+    "meta": {
+      "sessionId": "demo-session-001",
+      "participantId": "P001",
+      "hand": "right",
+      "device": "Meta Quest 3",
+      "activity": "tea_pouring"
+    },
+    "frameIndex": 101,
+    "joints": [
+      {
+        "name": "Index_Tip",
+        "position": {
+          "x": 0.012,
+          "y": -0.154,
+          "z": 0.342
+        },
+        "confidenceScore": 1.0,
+        "trackingStatus": "Fully_Tracked"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-20T10:00:00.064Z",
+    "meta": {
+      "sessionId": "demo-session-001",
+      "participantId": "P001",
+      "hand": "right",
+      "device": "Meta Quest 3",
+      "activity": "tea_pouring"
+    },
+    "frameIndex": 105,
+    "joints": [
+      {
+        "name": "Index_Tip",
+        "position": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "confidenceScore": 0.0,
+        "trackingStatus": "Lost"
+      }
+    ]
+  }
+]

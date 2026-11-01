@@ -1,0 +1,6 @@
+Timestamp,FrameIndex,JointName,Position_X,Position_Y,Position_Z,Confidence_Score,Tracking_Status
+10:00:00.000,101,Index_Tip,0.012,-0.154,0.342,1.0,Fully_Tracked
+10:00:00.016,102,Index_Tip,0.014,-0.152,0.345,1.0,Fully_Tracked
+10:00:00.032,103,Index_Tip,0.015,-0.151,0.348,0.4,Estimated
+10:00:00.048,104,Index_Tip,0.016,-0.150,0.350,0.4,Estimated
+10:00:00.064,105,Index_Tip,NaN,NaN,NaN,0.0,Lost
